@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'StartNGFlutter-Task-1',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'StartNG Flutter task 1'),
+      home: MyHomePage(title: 'StartNGFlutter-Task-1'),
     );
   }
 }
